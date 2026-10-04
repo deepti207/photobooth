@@ -1,0 +1,7 @@
+{
+  "name": "PHOTOBOOTH STUDIO",
+  "description": "Professional offline-first photo booth strip design and A4 printing application for commercial event stalls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
