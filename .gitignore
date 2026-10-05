@@ -1,6 +1,6 @@
 node_modules/
 build/
-dist/
+# dist/ (uncommented to allow pre-built dist folder for Netlify publication)
 coverage/
 .DS_Store
 *.log
